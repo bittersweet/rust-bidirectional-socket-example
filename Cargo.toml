@@ -1,0 +1,7 @@
+[package]
+name = "bidirectional_socket"
+version = "0.1.0"
+authors = ["Mark Mulder <markmulder@gmail.com>"]
+edition = "2018"
+
+[dependencies]
